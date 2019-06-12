@@ -80,6 +80,8 @@ DATABASES = {
         'NAME': 'chinook',
         'HOST': '127.0.0.1',
         'PORT': '5432',
+        'PASSWORD': '97990611',
+        'USER': 'yjacobs'
     }
 }
 
